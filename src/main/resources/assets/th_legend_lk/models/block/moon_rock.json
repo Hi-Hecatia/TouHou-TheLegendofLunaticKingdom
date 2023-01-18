@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "th_legend_lk:blocks/moon_rock",
+    "up": "th_legend_lk:blocks/moon_rock",
+    "north": "th_legend_lk:blocks/moon_rock",
+    "east": "th_legend_lk:blocks/moon_rock",
+    "south": "th_legend_lk:blocks/moon_rock",
+    "west": "th_legend_lk:blocks/moon_rock",
+    "particle": "th_legend_lk:blocks/moon_rock"
+  }
+}

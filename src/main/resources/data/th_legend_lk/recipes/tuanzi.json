@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 0 ",
+    "  1"
+  ],
+  "key": {
+    "0": {
+      "item": "th_legend_lk:tuanzi_without_stick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "th_legend_lk:tuanzi",
+    "count": 1
+  }
+}

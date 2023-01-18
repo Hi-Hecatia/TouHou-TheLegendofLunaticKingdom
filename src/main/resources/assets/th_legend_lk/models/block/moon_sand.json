@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "th_legend_lk:blocks/moon_sand",
+    "up": "th_legend_lk:blocks/moon_sand",
+    "north": "th_legend_lk:blocks/moon_sand",
+    "east": "th_legend_lk:blocks/moon_sand",
+    "south": "th_legend_lk:blocks/moon_sand",
+    "west": "th_legend_lk:blocks/moon_sand",
+    "particle": "th_legend_lk:blocks/moon_sand"
+  }
+}

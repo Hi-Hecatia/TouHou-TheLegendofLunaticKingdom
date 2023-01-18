@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "tuanzi_without_stick",
+  "experience": 1.0,
+  "cookingtime": 160,
+  "ingredient": {
+    "item": "th_legend_lk:dough_with_water"
+  },
+  "result": "th_legend_lk:tuanzi_without_stick"
+}
